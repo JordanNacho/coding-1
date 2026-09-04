@@ -41,3 +41,18 @@ goldChance = 10%
 applejuicePrice = 3.00
 orangejuicePrice = 3.50
 milkPrice = 2.50
+
+# Variable Naming conventions
+# we use naming conventions because we CANNOT have spaces in
+# variable
+
+# Camel case - when creating variable name with multiple words,
+# every new word begins with a capital letter
+# represent a hump.
+usernameForNewInstagramAccounts = 0
+passwordRecoveryTikTokAccount = 0
+
+# Snake case - when creating a variable using name case
+# we use a underscore symbol to space out each new word
+# the reason why its called snake case is bc the underscore
+# represents a snake slithering on the ground.
