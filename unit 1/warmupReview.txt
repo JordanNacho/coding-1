@@ -6,13 +6,13 @@ The 4 data types we learned are
 
 A code repository is a digital 
 space for storing files and 
-folders, just code.
+folders, Just code.
 
 A computor keyboard is an imput
 because it goes into the computor
 and the or monitor which is an output
 
-A variable is something that stores data
+A variable is something that stores data.
 
 one rule for variables is that it HAS
 to start with a letter not a number.
