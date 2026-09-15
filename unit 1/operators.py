@@ -10,7 +10,7 @@ school = True
 
 # Arithmetic Operators- Used on numerical
 # data types to perform calculations.
-#intergers (whole numbers) and floats ( decimal numbers)
+# intergers (whole numbers) and floats ( decimal numbers)
 
 # print is a funcion that lets us show code
 # in the terminal.
