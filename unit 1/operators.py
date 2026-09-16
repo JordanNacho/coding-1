@@ -43,7 +43,7 @@ print(300 != 300) # false- these are the same
 # instead of symbols, we represent these with words:
 # and, or , not
 
-# AND - checks if 2 conditions are ture. if yes, the final
+# AND - checks if 2 conditions are true. if yes, the final
 # result is true
 print(3 > 1 and 100 < 50) # this would come out to be true
 
