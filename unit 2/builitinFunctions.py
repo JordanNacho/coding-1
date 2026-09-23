@@ -32,7 +32,13 @@ print("this event took place in"+ str(year))
 # then use the data casting function in a real block of
 # code
 
-#int()- Removes all decimals and cunstucts an interger from
-# an interger literal
+# int()- Removes all decimals and cunstucts an interger from
+# an interger literal.
+Y = int(2.8) # this will make Y = 2
+Y = int(2) # this will make Y = 2
 
-#float()- c
+# float()- creates a float number from an interger, float, or sting
+# literals
+Y = float(3) # this will make Y = 3.0
+Y = float(3.0) # this will make Y = 3.0
+
