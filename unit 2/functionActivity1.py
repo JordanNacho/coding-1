@@ -3,5 +3,10 @@ val = input("type in a number:")
 print(int(val) > 85)
 
 2
-val = input(type in a number:"")
+val = input("type in a number:")
 print(int(val) + 360)
+
+3
+val= input("")
+val2= "boys latin"
+print(val == val2)
