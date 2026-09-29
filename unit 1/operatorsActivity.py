@@ -42,3 +42,6 @@ Parentcontact1= True
 Parentcontact2= False
 print(Parentcontact1 or Parentcontact2)
 
+(85 < 89) = False
+(40 < 42) = False
+print(85 < 89) and (40 < 42)

@@ -10,3 +10,8 @@ print(int(val) + 360)
 val= input("")
 val2= "boys latin"
 print(val == val2)
+
+
+val= input("number of days:")
+print(int(val) * 15)
+

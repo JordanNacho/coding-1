@@ -56,3 +56,5 @@ passwordRecoveryTikTokAccount = 0
 # we use a underscore symbol to space out each new word
 # the reason why its called snake case is bc the underscore
 # represents a snake slithering on the ground.
+
+# pascal case - when creati
