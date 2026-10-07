@@ -18,5 +18,5 @@ def goodMorning():
     
     goodMorning()
 
-    def shoot():
+    shoot():
         # when
