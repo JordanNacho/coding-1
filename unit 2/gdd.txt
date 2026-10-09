@@ -1,0 +1,36 @@
+1: If a programmer, a concept artist, and a publisher read your GDD,
+ what specific information is each person looking for, and why?
+A programmer looks for clear mechanics, rules, and technical constraints so they can 
+determine feasibility and understand how to implement the game’s systems.
+A concept artist looks for descriptions of the world, characters, tone, and style so 
+they can establish the visual direction and produce consistent artwork.
+A publisher looks for the target audience, market positioning, scope, and production 
+plan to evaluate whether the game is commercially viable and deliverable.
+Together, these perspectives ensure the GDD communicates how the game should play, 
+look, and succeed in the market.
+ 
+ 2: What are 2 differences between a game design document and code 
+ documentation?
+A code documentation set explains the technical implementation of the game, 
+such as functions, systems, and architecture, for programmers.
+A GDD is written mainly for designers, artists, and producers early in development, while code
+documentation is created for engineers during or after implementation.
+Together, they serve different purposes one guiding what the game should be, and the other 
+explaining how it is built.
+
+3: Why is a GDD considered a 'living document'? What typically happens 
+to a project if the GDD is treated as an unchangeable script once
+coding begins?
+A GDD is explicitly described as a living software design document that is “changed,
+revised and expanded as development progresses” 
+This happens because game development is dynamic—mechanics shift, scope changes, and new ideas emerge. Modern studios reinforce this 
+by treating the GDD as a working reference that producers, designers, 
+engineers, artists, and QA return to “during every sprint”
+ 
+ 4: How does a well-structured GDD help a development team avoid feature creep?
+A detailed GDD establishes agreed‑upon mechanics, systems, and constraints, giving developers a shared 
+reference point that reduces ad‑hoc additions. It also provides a decision‑making framework that helps the 
+team evaluate whether proposed features support the core experience or distract from it. 
+Because the GDD is maintained throughout development, it acts as a living contract 
+that keeps the project focused and prevents uncontrolled expansion.
+

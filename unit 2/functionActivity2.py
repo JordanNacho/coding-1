@@ -28,6 +28,6 @@ def CompareStudentHonorRole():
     absent = input("enter absenses:")
     print(grade > 90 and absent < 5)
 
-
+    
 
 
