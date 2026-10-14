@@ -35,3 +35,7 @@ else:
 
 Calc = int(input("please enter the sign(+,-,*,/): "))
 
+if Calc ==
+
+
+
