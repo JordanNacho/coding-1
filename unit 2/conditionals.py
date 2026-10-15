@@ -1,41 +1,32 @@
-# Conditional if/else logic- these are keywords that instruct your
-# program to do specific instructions based on specific data
-# or conditions.
 
-# conditional syntax(how it is written)
-bill_amount = int(input("please type in a bill tender(1,5,10): "))
+def Movie_tickets():
+    print("hey buddy!, how old are you?")
+    Age= int(input("enter age here:"))
 
-# if usually indicate that something is a possible option
-if bill_amount == 1:
-    print("here are 4 quarters")
-
-elif bill_amount == 5:
-    print("here are 20 quarters")
-
-elif bill_amount == 10:
-    print("here are 40 quarters")
-
-elif bill_amount is 20:
-    print("sorry we do not accept 20s. please enter an accepted amount")
+    if Age < 7:
+        print("your ticket is $8.00")
+    elif Age > 8 and Age < 20:
+        print("your ticket is $12.00")
+    elif Age > 21 and Age < 60:
+        print("your growing up buddy, your ticket price is $20.00")
+    elif Age > 61:
+        print("DAAAAMN your old, heres your free ticket!")
+    else:
+        print("get Better lil bro")
 
 
-#else is ALWAYS your last option.
-else:
-    print("sorry that type of bill is not accepted. ")
+def Field_trip():
+    print("Do you have a signed permission slip?")
+    permslip= input()
+    yes=True
+    no=False
+    if permslip == no:
+        print("damn that sucks, well in that case, whats your GPA")
+        gpa= int(input())
 
-    # elif allows us to indecate that there are more possible options
-    # you can have as many elif as you want
 
 
-# create a calculator function that uses if/else logic to allow the user
-# to change or select different arithmentic operations.
-# example: an input where if the user enter 1, it will do
-# addition, 3 will do subtaction
-# 3 will do multiplication and 4 division
 
-Calc = int(input("please enter the sign(+,-,*,/): "))
-
-if Calc ==
 
 
 
