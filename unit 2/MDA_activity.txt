@@ -1,0 +1,6 @@
+In flappy bird, you will have to press one button to make the bird jump up by a little.
+there is no limit to how far up you jump but if you keep tapping
+you will go up farther. there will be obsticle in your way and to avoid them you
+have to go in between them. just remember when you jump up you will always go down
+so you have to ballence the bird and have good control to get through and the obsticles
+get harder. the same is a plain 2d game that can be played anywhere with a cartoon vibe.
