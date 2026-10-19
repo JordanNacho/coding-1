@@ -4,3 +4,9 @@ you will go up farther. there will be obsticle in your way and to avoid them you
 have to go in between them. just remember when you jump up you will always go down
 so you have to ballence the bird and have good control to get through and the obsticles
 get harder. the same is a plain 2d game that can be played anywhere with a cartoon vibe.
+
+1: The game im going to be making is going to be like jetpack joyride, we'd make it it our own by using different sprites and different backgrounds.
+2: we want players to move foward and up at the same time with only one button input.
+3: The game would be endless so it'd end when the player hits an obsticle that was supposed to be avoided
+4: the player starts from the begining
+5: jetpack joyride, flappy bird, other games that require a one button input lie geometry dash.
