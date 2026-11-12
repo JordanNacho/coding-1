@@ -1,0 +1,25 @@
+1. Crystal Quest is an adventure game where players 
+explore a magical world filled with hidden treasures 
+and mysterious creatures. The goal is to collect powerful crystals while 
+solving puzzles and avoiding dangers. Players can unlock new areas and 
+abilities as they progress.
+The game is advertised as a fun exploration, 
+strategy, and adventure kind of game.
+
+2.  The game uses simple keyboard controls.
+The W, A, S, D keys move the character up, left, down, 
+and right around the map. Pressing the E key lets the player 
+interact with objects such as doors, treasure chests, and characters. 
+The Space Bar allows the player to jump over obstacles and reach new areas.
+
+ 3. The first game object is the Magic Crystal. 
+Players collect these crystals to gain points,
+unlock abilities, and complete game objectives. 
+The second game object is the Forest Guardian. This creature protects important areas of the map and challenges
+players by blocking paths until they solve a
+puzzle or complete a task. There will be GLizzards and a glizzard is an enemy
+to the main character they will offer you a trade and if you deny a trade they will attack you
+another attribute will be the houses. the houses will be filled
+with treasure but it will be risky. it will be filled with enemys or with treasure if its
+filled with enemys, your cant leave until you kill them all.
+if there is treasure, you will have to open it to leave.
