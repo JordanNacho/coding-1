@@ -1,0 +1,21 @@
+1. The player will be walking on a path with houses.
+the player has to go in houses to find eather, treasure 
+or a crystal. all houses will be randomised. some houses will
+have enemys so enemys will make the game challenging and also 
+finding crystals.
+
+2. The game will begin right away
+
+3. object that will be in the game are glizards(steals crystals), Enemys
+(attacks the player), shop(buy upgrades with money), houses(randomised
+structures that you can enter), and the player.
+
+4. To control tha character, you can use WASD or arrow keys to move in any direction.
+you can also use space to attack and swing your weapon. And e to interact.
+
+5. The obsicles a player would face are, glizzards(if you deny to trade with them they will 
+imediatly start attacking) and regular enemys(they attack)
+
+6. to win you have to collect all crystals and run back to the first map 
+before the timer hits 0 and you cant let the monster catch you while your
+getting chased to the beggining. to lose, your health bar will have to hit 0.

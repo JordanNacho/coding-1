@@ -18,7 +18,7 @@ unlock abilities, and complete game objectives.
 The second game object is the Forest Guardian. This creature protects important areas of the map and challenges
 players by blocking paths until they solve a
 puzzle or complete a task. There will be GLizzards and a glizzard is an enemy
-to the main character they will offer you a trade and if you deny a trade they will attack you
+to the main character. they will offer you a trade and if you deny a trade they will attack you
 another attribute will be the houses. the houses will be filled
 with treasure but it will be risky. it will be filled with enemys or with treasure if its
 filled with enemys, your cant leave until you kill them all.
